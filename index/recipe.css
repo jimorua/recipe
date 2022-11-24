@@ -1,0 +1,26 @@
+
+h1,h2,h3{
+color: #A4A400;
+background-color:#F0F0F0;
+}
+h1{font-family:Lucida Sans Unicode;}
+h2{font-family:Helvetica;}
+h3{font-family:Arial;}
+h1{text-align:center;}
+h1{font-style:20pt bold;text-decoration:underline;}
+h2,h3{text-align:left;text-decoration:underline;}
+h2,h3{font-family:18pt normal;}
+   body {
+    background-color:white;color: #404040;font-size:11pt;font-family:Georgia;
+   }
+         a:link {color:#A4A400;}
+            blockquote{text-decoration:underline;}
+                                p1,p2,p3,p4{font-weight:bold;}
+                                 p0{text-decoration:underline;}
+                                 p11{background-color:yellow;font-style:italic;}
+                     
+                        p28,p29{background-color:yellow;font-style:italic;}
+                           p31,p32{background-color:yellow;font-style:italic;}
+                               h1,h2,h3{letter-spacing:0.25em;}
+                                  p40,p41,p42{font-weight:bold;}
+                                     
